@@ -1,0 +1,9 @@
+name: lkChat
+version: ${project.version}
+main: com.developer.lk.chat.Main
+authors: [lkAugusto]
+
+commands:
+  g:
+  s:
+  chat:
